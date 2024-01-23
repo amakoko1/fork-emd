@@ -1,0 +1,10 @@
+# Core requirements
+numpy>=1.19.3
+scipy
+sparse
+matplotlib
+pandas
+pyyaml>=5.1
+joblib
+tabulate
+dcor

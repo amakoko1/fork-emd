@@ -1,0 +1,6 @@
+# Documentation and website requirements
+pydata-sphinx-theme
+sphinx_gallery
+myst-parser
+numpydoc
+ipywidgets
