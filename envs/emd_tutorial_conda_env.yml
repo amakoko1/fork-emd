@@ -1,0 +1,9 @@
+name: emd-tutorial
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+   - ipython
+   - jupyter
+   - spyder
+   - emd
